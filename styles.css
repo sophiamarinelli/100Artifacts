@@ -19,5 +19,5 @@ a:hover {
 }
 
 a:visited {
-	text-decoration: line-through;
+	color: white;
 }
