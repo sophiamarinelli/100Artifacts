@@ -1,0 +1,23 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: "Helvetica";
+	font-size: .4em;
+	color: black;
+
+}
+
+a {
+}
+
+
+a:hover {
+	color: white;
+}
+
+a:visited {
+	text-decoration: line-through;
+}
